@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Dev Helper Sheets</string>
+    <string name="subtopic_title">Subtopic</string>
+
+    <!--Topics string-array-->
+    <string-array name="topics_list">
+        <item>Git</item>
+        <item>MarkDown</item>
+    </string-array>
+
+    <!--Git Sub Topics-->
+    <string-array name="git_subtopics">
+        <item>Configure Tooling</item>
+        <item>Create Repositories</item>
+        <item>Make Changes</item>
+        <item>Group Changes</item>
+        <item>Refractor File Names</item>
+        <item>Review History</item>
+        <item>Suppress Tracking</item>
+        <item>Save Fragments</item>
+        <item>Redo Commits</item>
+        <item>Synchronize Changes</item>
+    </string-array>
+
+    <!--MarkDown Sub Topics-->
+    <string-array name="md_subtopics">
+        <item>Header</item>
+        <item>Fonts</item>
+        <item>Colors</item>
+        <item>Links</item>
+        <item>Snippets</item>
+    </string-array>
+
+    <!--TODO create description string-array -->
+
+    <!--TODO create code string-array to match the descriptions-->
+</resources>
